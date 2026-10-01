@@ -1,5 +1,10 @@
 # lab17-2569-starter — Zod + React Hook Form
 
+ป้อนข้อมูลนักศึกษา
+รหัส นศ.: 680610682
+
+ชื่อ-สกุล : ธรรมสรณ์ มีเที่ยง
+
 ```bash
 pnpm install
 pnpm dev
